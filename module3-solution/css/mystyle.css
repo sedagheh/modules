@@ -1,0 +1,35 @@
+hr{
+	border-style: solid;
+	width: 80%;
+	border-width: 1px;
+	color: #e75400;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+img {
+	filter: invert(95%) sepia(150%) saturate(5%) brightness(135%) contrast(95%);
+}
+.brandtext {
+	font-weight: bold;
+	color: white;
+}
+.navbar {
+	background-color: #ff6925;
+}
+.card {
+	margin-top: 1.25rem;
+}
+.tall-section {
+	height: 1000px;
+	background-color: #f5f5f5;
+}
+
+#footer {
+	color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+	padding: 15px;
+	background-color: #ff6925;
+}
+
